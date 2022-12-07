@@ -1,4 +1,4 @@
-# sf_data_science
+# My data_science
 
 From the [SkillFactory Data Science course](https://skillfactory.ru/data-scientist)
 
